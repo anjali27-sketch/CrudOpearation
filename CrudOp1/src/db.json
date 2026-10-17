@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": "student-server-1",
+      "studentId": 1,
+      "name": "Anjali",
+      "course": "BCS",
+      "marks": 93
+    },
+    {
+      "id": "student-server-2",
+      "studentId": 2,
+      "name": "Riya",
+      "course": "BCA",
+      "marks": 80
+    },
+    {
+      "id": "student-server-3",
+      "studentId": 3,
+      "name": "Siya",
+      "course": "BBA",
+      "marks": 70
+    },
+    {
+      "studentId": 4,
+      "name": "Swaraj",
+      "course": "MSC",
+      "marks": 90
+      
+    }
+  ],
+  "books": [
+    {
+      "id": "book-server-1",
+      "bookId": 1,
+      "title": "Core Java",
+      "author": "John",
+      "price": 450
+    },
+    {
+      "id": "book-server-2",
+      "bookId": 2,
+      "title": "React",
+      "author": "Smith",
+      "price": 550
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
